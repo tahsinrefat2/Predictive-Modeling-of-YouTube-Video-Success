@@ -23,3 +23,6 @@ emerged as the most effective, with the tuned Random Forest
 achieving the highest performance metrics(86% accuracy),
 emphasizing the significance of hyperparameter tuning and
 ensemble approaches for complex datasets.
+
+Methodology Flowchart :
+![methodology_flowchart](https://github.com/user-attachments/assets/bbb92da4-9e8e-42ee-9acf-aaafa67ed8f1)
